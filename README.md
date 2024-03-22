@@ -3,14 +3,14 @@ Imagine a groundbreaking solution to revolutionize the way students prepare for 
 
  How it works: 
 
-Point First Is : Student Privacy
+1. Student Privacy
 Each student's personal information, such as name and roll number, is never stored or seen by any central entity. Instead, we utilize advanced cryptographic techniques to generate a unique hash function for every student. This hash function serves as a secure identifier for each student without revealing any personal details.
 
-Point Second Is, Secure Examination Process : When a student participates in an examination, only their encrypted exam copy is stored on the blockchain, linked to their unique hash identifier. This ensures that sensitive information remains confidential and inaccessible to any unauthorized parties.
+2. Secure Examination Process : When a student participates in an examination, only their encrypted exam copy is stored on the blockchain, linked to their unique hash identifier. This ensures that sensitive information remains confidential and inaccessible to any unauthorized parties.
 
-Point third is Central Entity Verification: The central entity responsible for conducting the examinations can verify each student's exam copy without accessing any other students' data or personal information. They simply interact with the blockchain to authenticate the integrity of the exam copies, ensuring a fair and transparent evaluation process.
+3. Central Entity Verification: The central entity responsible for conducting the examinations can verify each student's exam copy without accessing any other students' data or personal information. They simply interact with the blockchain to authenticate the integrity of the exam copies, ensuring a fair and transparent evaluation process.
 
-Point Fourth is Result Dissemination  Once the examinations are completed and the results are ready, they are securely transmitted back to the students using their unique hash identifiers. This ensures that each student receives their results directly, without any intermediary accessing their personal information.
+4. Result Dissemination  Once the examinations are completed and the results are ready, they are securely transmitted back to the students using their unique hash identifiers. This ensures that each student receives their results directly, without any intermediary accessing their personal information.
 
 By implementing this solution, we not only ensure the privacy and security of students' data but also instill trust and transparency in the examination process. Our application will be open-source, allowing for community collaboration and continuous improvement.
 
