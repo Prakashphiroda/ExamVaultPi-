@@ -1,6 +1,9 @@
 ExamVaultPi is a groundbreaking web3 application designed to revolutionize the landscape of government job examinations. Built on the secure and decentralized Pi blockchain ecosystem, ExamVaultPi ensures transparency, fairness, and integrity in the examination process, empowering students to pursue their academic and professional aspirations with confidence.
+
 About
+
 ExamVaultPi aims to address the challenges faced by students in traditional examination processes, such as lack of transparency, security breaches, and unfair evaluation methods. By leveraging blockchain technology, ExamVaultPi offers a secure and transparent platform for students to access study materials, register for exams, submit their copies securely, and receive verified results.
+
 Features
 
 Access a comprehensive repository of study materials curated for government job examinations.
@@ -11,6 +14,7 @@ Receive exam results securely through the ExamVaultPi platform, eliminating the 
 Engage with a vibrant community of students, educators, and government officials within the ExamVaultPi ecosystem.
 
 How to Contribute
+
 ExamVaultPi is an open-source project, and we welcome contributions from developers worldwide. Whether you're interested in frontend development, we use pi blockchain for integration, or community management, there are plenty of opportunities to get involved.
 
 To contribute to ExamVaultPi, follow these steps:
